@@ -88,8 +88,8 @@
   </dependencies>
 
   <properties>
-    <ome-common.version>6.3.0</ome-common.version>
-    <ome-jai.version>0.1.5</ome-jai.version>
+    <ome-common.version>6.3.1-SNAPSHOT</ome-common.version>
+    <ome-jai.version>0.2.1-SNAPSHOT</ome-jai.version>
     <testng.version>7.9.0</testng.version>
 
     <!-- NB: Avoid platform encoding warning when copying resources. -->
